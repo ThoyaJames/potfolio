@@ -1,0 +1,53 @@
+.main{
+    margin: 50px;
+    background-color: gold;
+    border: 5px solid black; 
+  }
+  
+  .nav-bar{
+    word-spacing: 40px;
+    font-size: 20px;
+    font-family: arial;
+  }
+  
+  .nav-bar ul li a{
+    text-decoration: none;
+    color:black;
+  }
+  
+  .nav-bar ul li{
+    display: inline-block;
+    -webkit-transition: border 1s, border-radius 1s, padding 1s, background-color 1s, color 1s;
+  }
+  
+  .nav-bar ul li:hover{ 
+    border-bottom: 2px solid #c80ee0;
+    border-radius: 10%;
+    padding: 10px;
+    background-color:aqua;
+    color: white;
+  }
+  .paragraph{
+    font-size: 100px;
+  }
+  .logo{
+    font-style:italic ;
+    font-size: 30px;
+    color: #e91e63;
+  }
+  .logo span{
+    color:blueviolet;
+  }
+  .box-icon{
+    color: black;
+  }
+  .fa-qrcode{
+    color: #e91e63;
+  }
+  .#contact{
+    color: #e91e63;
+  }
+  .button{
+    color: #e91e63;
+  }
+   
